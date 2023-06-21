@@ -26,6 +26,7 @@ _**以下内容仅用于学习用途,如有疑问请[联系电教委](https://gi
 [【数学二次根式指导手册】](https://jms-class-five.github.io/files/pdf/%E6%95%B0%E5%AD%A6%E4%BA%8C%E6%AC%A1%E6%A0%B9%E5%BC%8F%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.pdf)
 ## 8A
 #### 期中后~期末
+[【历史八上复习提纲】](https://jms-class-five.github.io/files/pdf/%E5%8E%86%E5%8F%B2%E5%85%AB%E4%B8%8A%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf)
 #### 假期预习~期中
 ## 7B
 #### 期中后~期末

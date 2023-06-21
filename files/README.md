@@ -28,6 +28,7 @@ _**以下内容仅用于学习用途,如有疑问请[联系电教委](https://gi
 #### 期中后~期末
 [【历史八上复习提纲】](https://jms-class-five.github.io/files/pdf/%E5%8E%86%E5%8F%B2%E5%85%AB%E4%B8%8A%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf)
 #### 假期预习~期中
+[【八年级上册语文课本】](https://jms-class-five.github.io/files/pdf/ebook/%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%AF%AD%E6%96%87.pdf)
 ## 7B
 #### 期中后~期末
 [【《海底两万里》笔记】](https://jms-class-five.github.io/files/img/%E6%B5%B7%E5%BA%95%E4%B8%A4%E4%B8%87%E9%87%8C%E7%AC%94%E8%AE%B0/)

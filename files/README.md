@@ -1,4 +1,10 @@
 # 班级文件
+_**以下内容仅用于学习用途,如有疑问请[联系电教委](https://github.com/zelihole#contact-me-联系我)。**_
+## 8B
+[【扫描件·初二物理期末复习——综合C】](https://jms-class-five.github.io/files/pdf/%E6%89%AB%E6%8F%8F%E4%BB%B6_%E5%88%9D%E4%BA%8C%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E2%80%94%E2%80%94%E7%BB%BC%E5%90%88C.pdf)\
+[【历史期末复习易错点和难点】](https://jms-class-five.github.io/files/pdf/%E5%8E%86%E5%8F%B2%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E6%98%93%E9%94%99%E7%82%B9%E5%92%8C%E9%9A%BE%E7%82%B9.pdf)\
+[【英语8BU1-4复习】](https://jms-class-five.github.io/files/pdf/8BU1-4%E5%A4%8D%E4%B9%A0.pdf)\
+[【物理3张期末复习卷答案】](https://jms-class-five.github.io/files/pdf/3%E5%BC%A0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)\
 [【文言文加点字8B答案】](https://jms-class-five.github.io/files/pdf/%E6%96%87%E8%A8%80%E6%96%87%E5%8A%A0%E7%82%B9%E5%AD%97%20%E7%AD%94%E6%A1%88.pdf)\
 [【政治八下期末复习默写空白卷1】](https://jms-class-five.github.io/files/pdf/%E6%94%BF%E6%B2%BB%E5%85%AB%E4%B8%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E9%BB%98%E5%86%991.pdf)\
 [【数学8B期末复习卷5.pdf】](https://jms-class-five.github.io/files/pdf/%E6%95%B0%E5%AD%A68B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E5%8D%B75.pdf)\

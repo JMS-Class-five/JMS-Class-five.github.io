@@ -18,11 +18,12 @@ _**以下内容仅用于学习用途,如有疑问请[联系电教委](https://gi
 [【8B字音，文常的参考答案】](https://JMS-Class-five.github.io/files/pdf/字音，文常%20参考答案.pdf)\
 [【语文复习8B周末卷6.9】](https://JMS-Class-five.github.io/files/pdf/语文复习8B周末卷6.9.pdf)\
 [【8B历史提纲】](https://jms-class-five.github.io/files/pdf/8B%E5%8E%86%E5%8F%B2%E6%8F%90%E7%BA%B2.pdf)\
-[【8B信息技术毕业会考选择题题库2023】](https://jms-class-five.github.io/files/pdf/8B信息技术毕业会考选择题题库2023.pdf)\
+[【8B信息技术毕业会考选择题题库2023】](https://jms-class-five.github.io/files/pdf/8B信息技术毕业会考选择题题库2023.pdf)
 #### 假期预习~期中
+[【Leoliu阅读Test16-22】](https://jms-class-five.github.io/files/pdf/Leoliu%E9%98%85%E8%AF%BBTest16-22.pdf)\
 [【字形期中复习-答案卷】](https://jms-class-five.github.io/files/pdf/%E5%AD%97%E5%BD%A2%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0-%E7%AD%94%E6%A1%88%E5%8D%B7.pdf)\
 [【二次根式大册】](https://jms-class-five.github.io/files/pdf/%E4%BA%8C%E6%AC%A1%E6%A0%B9%E5%BC%8F%E5%A4%A7%E5%86%8C.pdf)\
-[【数学二次根式指导手册】](https://jms-class-five.github.io/files/pdf/%E6%95%B0%E5%AD%A6%E4%BA%8C%E6%AC%A1%E6%A0%B9%E5%BC%8F%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.pdf)\
+[【数学二次根式指导手册】](https://jms-class-five.github.io/files/pdf/%E6%95%B0%E5%AD%A6%E4%BA%8C%E6%AC%A1%E6%A0%B9%E5%BC%8F%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.pdf)
 ## 8A
 #### 期中后~期末
 #### 假期预习~期中

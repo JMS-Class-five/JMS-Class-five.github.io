@@ -30,8 +30,10 @@ _**以下内容仅用于学习用途,如有疑问请[联系电教委](https://gi
 #### 假期预习~期中
 ## 7B
 #### 期中后~期末
+[【《海底两万里》笔记】](https://jms-class-five.github.io/files/img/%E6%B5%B7%E5%BA%95%E4%B8%A4%E4%B8%87%E9%87%8C%E7%AC%94%E8%AE%B0/)
 #### 假期预习~期中
-[【数学角模型整理】](https://jms-class-five.github.io/files/pdf/%E6%A8%A1%E5%9E%8B%E6%95%B4%E7%90%86.pdf)
+[【数学角模型整理】](https://jms-class-five.github.io/files/pdf/%E6%A8%A1%E5%9E%8B%E6%95%B4%E7%90%86.pdf)\
+[【《骆驼祥子》笔记】](https://jms-class-five.github.io/files/img/%E9%AA%86%E9%A9%BC%E7%A5%A5%E5%AD%90%E7%AC%94%E8%AE%B0/)
 ## 7A
 #### 期中后~期末
 #### 假期预习~期中

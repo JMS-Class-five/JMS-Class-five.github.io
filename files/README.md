@@ -2,6 +2,7 @@
 _**以下内容仅用于学习用途,如有疑问请[联系电教委](https://github.com/zelihole#contact-me-联系我)。**_
 ## 8B
 #### 期中后~期末
+[【政治期末模拟答案】](https://jms-class-five.github.io/files/pdf/%E6%9C%9F%E6%9C%AB%E6%A8%A1%E6%8B%9F%E7%AD%94%E6%A1%88%E6%94%BF%E6%B2%BB.pdf)\
 [【初二下时政】](https://jms-class-five.github.io/files/pdf/%E5%88%9D%E4%BA%8C%E6%97%B6%E6%94%BF.pdf)\
 [【历史8下讲义空白版】](https://jms-class-five.github.io/files/pdf/%E5%8E%86%E5%8F%B28%E4%B8%8B%E8%AE%B2%E4%B9%89%E7%A9%BA%E7%99%BD%E7%89%88.pdf)\
 [【扫描件·初二物理期末复习——综合C】](https://jms-class-five.github.io/files/pdf/%E6%89%AB%E6%8F%8F%E4%BB%B6_%E5%88%9D%E4%BA%8C%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E2%80%94%E2%80%94%E7%BB%BC%E5%90%88C.pdf)\

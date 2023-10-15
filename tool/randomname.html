@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>为江南夜上海第五歌厅设计的随机点名</title>
+</head>
+<style>
+  div {
+    width: 200px;
+    height: 60px;
+    border: 5px solid hotpink;
+    text-align: center;
+    line-height: 60px;
+  }
+  button {
+    width: 210px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+  }
+</style>
+<center>
+<body>
+<div>开始点名！</div>
+<button>随机点名</button>
+<script>
+  let box = document.querySelector('div');
+  let btn = document.querySelector('button');
+  function getRandom(min,max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+  let flag=1;
+  let arr = ['程邦旭','华晓宝','李昀瀚','李梓宁','李梓硕','全正效','沙泽李','孙昌龙','汤梓宸','陶旭','涂益志','王敖宇','王功灿','王天和','王奕','王政超','肖荣皓','闫润晰','张楚哲','张伟成','卞淼','陈思羽','陈梓萌','贾欣怡','孔祥韵','李昕原','李奕涵','刘语茵','陆鈊雨','穆芯蕊','钱柯仰','邵书涵','宋睿馨','轮空','许惠铭','杨若榴','赵慧欣','赵思涵','赵思睿','周萌','朱佳盈','许钰楚','李佳芮'];
+  let ste;
+  let a1;
+  btn.addEventListener('click', function() {
+      if(flag) {
+          btn.innerHTML = '暂停';
+          flag = 0;
+          ste = setInterval(function () {
+              a1=getRandom(0, arr.length-1);
+              box.innerHTML = arr[a1];
+          }, 100);
+      }
+      else
+          {
+              arr.splice(a1,1);
+              btn.innerHTML = '开始点名!';
+              flag=1;
+              clearInterval(ste);
+              if((arr.length)==0){
+                  btn.disabled=true;
+                  btn.innerHTML='所有人都点过了！——吧？';
+              }
+          }
+  });
+</script>
+</body>
+</center>
+</html>
+<!-- 刷子版权所冇 -->
